@@ -1,1 +1,2 @@
-# coursera-assignment2
+# coursera -assignement 
+Learning how to use Git
